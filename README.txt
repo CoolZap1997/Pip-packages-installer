@@ -3,7 +3,11 @@ which I am slightly proud of myself for.
 
 All the requirements of pip packages you want to install should be written down line by line with or without version.
 
-Eg. package_abc=12.5.0
+Eg. 
+package_abc=12.5.0
+package_def=8.2.0
+package_ghi=1.4.8
+package_jkl=6.10.2
 
 Then run the python script and it will generate a shell script with the name pip3_install_packages.sh
 
